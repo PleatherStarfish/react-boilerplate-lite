@@ -1,4 +1,4 @@
-<div align="center"><h1>react boilerplate lite</h1></div>
+<div align="center"><h1>React Boilerplate Lite</h1></div>
 <div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
 
 <br />
@@ -16,6 +16,7 @@ The whole React community knows and will unanimously agree that [react-boilerpla
 - Removed docs, internal/templates, internals/generators
 - Removed misc markdown files
 - Coveralls
+- Replaced react-loadable with React Suspense
 
 ## Quick start
 1. Clone this repo using `git clone https://github.com/ljmerza/react-boilerplate-lite.git`
