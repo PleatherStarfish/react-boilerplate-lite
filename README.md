@@ -1,12 +1,6 @@
 <div align="center"><h1>react-boilerplate lite</h1></div>
 <div align="center">A stripped down version of <a href='https://github.com/react-boilerplate/react-boilerplate'>react-boilerplate</a></div>
 
-<br />
-
-<div align="center">
-  <sub>Created by <a href="https://github.com/ljmerza">Leonardo Merza</a></sub>
-</div>
-
 ## Features Changed
 - Removed Intl - All files and libaries for Intl support
 - Removed all CI files
