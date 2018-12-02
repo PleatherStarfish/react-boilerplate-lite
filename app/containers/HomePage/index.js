@@ -61,23 +61,18 @@ export class HomePage extends React.PureComponent {
         </Helmet>
         <div>
           <CenteredSection>
-            <H2>
-              Start your next react project in seconds
-            </H2>
+            <H2>Start your next react project in seconds</H2>
             <p>
-              A highly scalable, offline-first foundation with the best DX and a focus on performance and best practices
+              A highly scalable, offline-first foundation with the best DX and a
+              focus on performance and best practices
             </p>
           </CenteredSection>
           <Section>
-            <H2>
-              Try me!
-            </H2>
+            <H2>Try me!</H2>
             <Form onSubmit={this.props.onSubmitForm}>
               <label htmlFor="username">
                 Show Github repositories by
-                <AtPrefix>
-                  trymeAtPrefix
-                </AtPrefix>
+                <AtPrefix>@</AtPrefix>
                 <Input
                   id="username"
                   type="text"
