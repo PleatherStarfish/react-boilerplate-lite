@@ -7,7 +7,7 @@ describe('homeReducer', () => {
   let state;
   beforeEach(() => {
     state = fromJS({
-      username: ''
+      username: '',
     });
   });
 
@@ -17,7 +17,7 @@ describe('homeReducer', () => {
   });
 
   it('should handle the changeUsername action correctly', () => {
-    const fixture = 'flexdinesh';
+    const fixture = 'mxstbr';
     const expectedResult = state.set('username', fixture);
 
     expect(homeReducer(state, changeUsername(fixture))).toEqual(expectedResult);
