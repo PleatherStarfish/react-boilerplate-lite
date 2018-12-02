@@ -17,6 +17,7 @@ The whole React community knows and will unanimously agree that [react-boilerpla
 - Removed misc markdown files
 - Coveralls
 - Replaced react-loadable with React Suspense
+- Updated various libaries to latest version
 
 ## Quick start
 1. Clone this repo using `git clone https://github.com/ljmerza/react-boilerplate-lite.git`
