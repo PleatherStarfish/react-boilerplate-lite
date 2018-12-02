@@ -7,7 +7,7 @@
   <sub>Created by <a href="https://github.com/ljmerza">Leonardo Merza</a></sub>
 </div>
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Why?
 The whole React community knows and will unanimously agree that [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) is the ultimate starter template for kickstarting a React project. It's setup with all the industry best practices and standards. But it also has a lot more than what you just need to start a react-redux app. I found myself always having to strip out the same parts to use the boilerplate so I decided to create a `lite` version. 
 
 ## Features Stripped Out
