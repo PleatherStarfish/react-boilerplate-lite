@@ -19,7 +19,7 @@ describe('<Footer />', () => {
     expect(
       renderedComponent.contains(
         <section>
-          <A href="https://twitter.com/mxstbr">Max Stoiber</A>
+          <A href="https://github.com/ljmerza">Leonardo Merza</A>
         </section>,
       ),
     ).toBe(true);
