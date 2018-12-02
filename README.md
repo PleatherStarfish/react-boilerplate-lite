@@ -12,7 +12,9 @@ The whole React community knows and will unanimously agree that [react-boilerpla
 
 ## Features Stripped Out
 - Intl - All files and libaries for Intl support
-
+- All CI files
+- docs, internal/templates, internals/generators
+- Misc markdown files
 
 ## Quick start
 1. Clone this repo using `git clone https://github.com/ljmerza/react-boilerplate-lite.git`
