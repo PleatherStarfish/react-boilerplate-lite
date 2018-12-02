@@ -61,7 +61,7 @@
     "fontfaceobserver": "2.1.0",
     "history": "4.7.2",
     "hoist-non-react-statics": "3.2.0",
-    "immutable": "4.0.0-rc.12",
+    "immutable": "3.8.2",
     "invariant": "2.2.4",
     "ip": "1.1.5",
     "loadable-components": "^2.2.3",
