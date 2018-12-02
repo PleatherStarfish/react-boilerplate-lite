@@ -1,4 +1,4 @@
-<div align="center"><h1>react boilerplate lite</h1></div>
+<div align="center"><h1>react boilerplate lite</h1>[![Build Status](https://travis-ci.com/ljmerza/react-boilerplate-lite.svg?branch=master)](https://travis-ci.com/ljmerza/react-boilerplate-lite)</div>
 <div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
 
 <br />
