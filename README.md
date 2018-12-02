@@ -1,4 +1,4 @@
-<div align="center"><h1>react-boilerplate lite</h1></div>
+<div align="center"><h1>react boilerplate lite</h1></div>
 <div align="center">A stripped down version of <a href='https://github.com/react-boilerplate/react-boilerplate'>react-boilerplate</a></div>
 
 ## Features Changed
