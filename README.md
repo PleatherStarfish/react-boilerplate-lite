@@ -15,7 +15,7 @@ The whole React community knows and will unanimously agree that [react-boilerpla
 - Removed all CI files
 - Removed docs, internal/templates, internals/generators
 - Removed misc markdown files
-- Coveralls
+- Removed Coveralls
 - Replaced react-loadable with React Suspense
 - Updated various libaries to latest version
 
