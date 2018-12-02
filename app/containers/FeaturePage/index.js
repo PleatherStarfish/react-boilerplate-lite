@@ -31,38 +31,38 @@ export default class FeaturePage extends React.Component {
         <H1>Features</H1>
         <List>
           <ListItem>
-            <ListItemTitle>
-              Quick scaffolding
-            </ListItemTitle>
+            <ListItemTitle>Quick scaffolding</ListItemTitle>
             <p>
-              defaultMessage: `Automate the creation of components, containers, routes, selectors and sagas - and their tests - right from the CLI!`
+              Automate the creation of components, containers, routes, selectors
+              and sagas - and their tests - right from the CLI!
             </p>
           </ListItem>
 
           <ListItem>
-            <ListItemTitle>
-              Instant feedback
-            </ListItemTitle>
+            <ListItemTitle>Instant feedback</ListItemTitle>
             <p>
-              Enjoy the best DX and code your app at the speed of thought! Your saved changes to the CSS and JS are reflected instantaneously without refreshing the page. Preserve application state even when you update something in the underlying code!
+              Enjoy the best DX and code your app at the speed of thought! Your
+              saved changes to the CSS and JS are reflected instantaneously
+              without refreshing the page. Preserve application state even when
+              you update something in the underlying code!
             </p>
           </ListItem>
 
           <ListItem>
-            <ListItemTitle>
-              Industry-standard routing
-            </ListItemTitle>
+            <ListItemTitle>Industry-standard routing</ListItemTitle>
             <p>
-              Write composable CSS that's co-located with your components for complete modularity. Unique generated class names keep the specificity low while eliminating style clashes. Ship only the styles that are on the page for the best performance.
+              Write composable CSS that&apos;s co-located with your components
+              for complete modularity. Unique generated class names keep the
+              specificity low while eliminating style clashes. Ship only the
+              styles that are on the page for the best performance.
             </p>
           </ListItem>
 
           <ListItem>
-            <ListItemTitle>
-              Offline-first
-            </ListItemTitle>
+            <ListItemTitle>Offline-first</ListItemTitle>
             <p>
-              The next frontier in performant web apps: availability without a network connection from the instant your users load the app.
+              The next frontier in performant web apps: availability without a
+              network connection from the instant your users load the app.
             </p>
           </ListItem>
         </List>
