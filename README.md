@@ -1,4 +1,4 @@
-<div align="center"><h1>react boilerplate lite</h1>[![Build Status](https://travis-ci.com/ljmerza/react-boilerplate-lite.svg?branch=master)](https://travis-ci.com/ljmerza/react-boilerplate-lite)</div>
+<div align="center"><h1>react boilerplate lite</h1></div>
 <div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
 
 <br />
@@ -12,7 +12,9 @@ The whole React community knows and will unanimously agree that [react-boilerpla
 
 ## Features Stripped Out
 - Intl - All files and libaries for Intl support
-
+- All CI files
+- docs, internal/templates, internals/generators
+- Misc markdown files
 
 ## Quick start
 1. Clone this repo using `git clone https://github.com/ljmerza/react-boilerplate-lite.git`
