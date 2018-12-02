@@ -8,7 +8,7 @@ function Footer() {
     <Wrapper>
       <section>This project is licensed under the MIT license.</section>
       <section>
-        <A href="https://twitter.com/mxstbr">Max Stoiber</A>
+        <A href="https://github.com/ljmerza">Leonardo Merza</A>
       </section>
     </Wrapper>
   );
