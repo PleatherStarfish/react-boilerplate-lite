@@ -9,6 +9,7 @@
 - Removed Coveralls
 - Replaced react-loadable with React Suspense
 - Updated various libaries to latest version
+- Removed NGINX/Apache files
 
 ## Quick start
 1. Clone this repo using `git clone https://github.com/ljmerza/react-boilerplate-lite.git`
