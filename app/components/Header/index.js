@@ -1,26 +1,27 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-import A from './A';
-import Img from './Img';
-import NavBar from './NavBar';
-import HeaderLink from './HeaderLink';
-import Banner from './banner.jpg';
+import { withStyles } from '@material-ui/core/styles';
+import AppBar from '@material-ui/core/AppBar';
+import Toolbar from '@material-ui/core/Toolbar';
+import Button from '@material-ui/core/Button';
 
-/* eslint-disable react/prefer-stateless-function */
-class Header extends React.Component {
-  render() {
-    return (
-      <div>
-        <A href="https://twitter.com/mxstbr">
-          <Img src={Banner} alt="react-boilerplate - Logo" />
-        </A>
-        <NavBar>
-          <HeaderLink to="/">Home</HeaderLink>
-          <HeaderLink to="/features">Features</HeaderLink>
-        </NavBar>
-      </div>
-    );
-  }
+import { styles } from './styles';
+
+function Header() {
+  return (
+    <AppBar position="static">
+      <Toolbar>
+        <Button color="inherit" component={Link} to="/">
+          Home
+        </Button>
+        <Button color="inherit" component={Link} to="/features">
+          Features
+        </Button>
+      </Toolbar>
+    </AppBar>
+  );
 }
 
-export default Header;
+Header.propTypes = {};
+export default withStyles(styles)(Header);
